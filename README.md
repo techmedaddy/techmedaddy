@@ -1,5 +1,9 @@
-# 💫 About Me:
-👋 Hi there! I'm Umar, a backend developer with a strong focus on Node.js, Docker containerization, and cloud deployment using AWS. I love diving into CI/CD pipelines, ensuring everything integrates seamlessly and gets deployed in record time.<br><br>🔧 I'm all about solving problems and finding innovative ways to boost system performance with smart DevOps practices and automation. Let's build something awesome together!<br><br>
+# 💫 About Me
+
+Hey there! 👋 I'm Umar, a backend developer who's all about Node.js, Docker, and deploying cool stuff in the cloud with AWS. When I’m not geeking out over CI/CD pipelines or figuring out how to make systems run faster and smoother, you'll probably catch me brushing up on geopolitics or diving deep into history docs. (Yeah, I'm that guy who’s into both code and world affairs!) 😄
+
+I like to mix things up with some humor and fun, and when I'm not coding or learning, I sometimes play table tennis **professionally**. So yeah, let's create something amazing, solve some cool challenges, and maybe even have a laugh along the way! 🎉
+
 
 
 ## 🌐 Socials:
