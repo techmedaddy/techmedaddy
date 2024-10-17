@@ -1,8 +1,21 @@
 # 💫 About Me
 
-Hey there! 👋 I'm Umar, a backend developer who's all about Node.js, Docker, and deploying cool stuff in the cloud with AWS. When I’m not geeking out over CI/CD pipelines or figuring out how to make systems run faster and smoother, you'll probably catch me brushing up on geopolitics or diving deep into history docs. (Yeah, I'm that guy who’s into both code and world affairs!) 😄
+# Hey there! 👋 I'm Umar
 
-I like to mix things up with some humor and fun, and when I'm not coding or learning, I sometimes play table tennis **professionally**. So yeah, let's create something amazing, solve some cool challenges, and maybe even have a laugh along the way! 🎉
+I’m a **CS undergrad** diving deep into the world of **backend development** with a splash of **DevOps** magic. I’ve got my hands dirty with tools like:
+
+- **Docker** 🐳
+- **Kubernetes** ☸️
+- **AWS** ☁️
+- **Kafka** 🐦
+- **Nginx** 🌐
+- **Jenkins** 🤖
+
+When I’m not coding or wrangling servers, you can find me having a blast playing **table tennis** **professionally** (yes, I promise I'm not just hitting the ball around!). 😄 I like to mix things up with some humor and fun, so let’s create something amazing, tackle cool challenges, and maybe even share a laugh or two along the way! 🎉
+
+I'm always looking for opportunities in tech to build cool things, so feel free to check out my repositories and connect with me!
+
+
 
 
 
