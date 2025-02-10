@@ -1,6 +1,9 @@
 # 💫 About Me:
-Hi 👋, I'm 'm Umar I’m a CS undergrad diving deep into the world of backend development with a splash of DevOps magic. I’ve got my hands dirty with tools like: Docker 🐳 Kubernetes ☸️ AWS ☁️ Kafka 🐦 Nginx 🌐 Jenkins 🤖<br>When I’m not coding or wrangling servers, you can find me having a blast playing table tennis professionally (yes, I promise I'm not just hitting the ball around!). 😄 I like to mix things up with some humor and fun, so let’s create something amazing, tackle cool challenges, and maybe even share a laugh or two along the way! 🎉 I'm always looking for opportunities in tech to build cool things, so feel free to check out my repositories and connect with me!
+Hey there! I'm Umar, a CS undergrad passionate about cloud security, DevOps, and backend development. I have hands-on experience with AWS, Docker, Kubernetes, Jenkins, and IAM, and I understand key security practices like access control, encryption, and auditing policies in the cloud.
 
+I enjoy optimizing cloud workflows, managing infrastructure, and ensuring security best practices. Beyond tech, I play table tennis professionally, always bringing a competitive spirit to problem-solving.
+
+Let’s connect and build secure, scalable solutions! 🔐☁️
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/umarei26) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/_techmedaddy) 
