@@ -3,7 +3,7 @@ Hey there! I'm Umar, a CS undergrad passionate about cloud security, DevOps, and
 
 I enjoy optimizing cloud workflows, managing infrastructure, and ensuring security best practices. Beyond tech, I play table tennis professionally, always bringing a competitive spirit to problem-solving.
 
-Let’s connect and build secure, scalable solution! 🔐
+Let’s connect and build secure, scalable solutions! 🔐
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/umarei26) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/_techmedaddy) 
