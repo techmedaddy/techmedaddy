@@ -1,9 +1,13 @@
-# 💫 About Me:
-Hey there! I'm Umar, a CS undergrad passionate about cloud security, DevOps, and backend development. I have hands-on experience with AWS, Docker, Kubernetes, Jenkins, and IAM, and I understand key security practices like access control, encryption, and auditing policies in the cloud.
+# 💫 About Me
+Hey there! I'm Umar Ejaz Imam, a Computer Science graduate focused on Backend Development, DevOps, and Site Reliability Engineering (SRE).
 
-I enjoy optimizing cloud workflows, managing infrastructure, and ensuring security best practices. Beyond tech, I play table tennis professionally, always bringing a competitive spirit to problem-solving.
+🛠️ I enjoy building and maintaining scalable backend systems, writing robust APIs, and ensuring infrastructure reliability through automation and observability.
 
-Let’s connect and build secure, scalable solutions! 🔐
+🚀 My experience includes working with tools like Node.js, Docker, Kubernetes, AWS, Jenkins, and GitHub Actions — alongside implementing best practices in CI/CD, monitoring, infrastructure as code, and cloud security (IAM, encryption, audit logging).
+
+⚙️ I believe in clean deployments, fast pipelines, and systems that scale securely and reliably.
+
+Let’s connect and build high-performance, production-grade systems! 🧩
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/umarei26) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/_techmedaddy) 
